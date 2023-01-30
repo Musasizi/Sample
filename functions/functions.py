@@ -30,3 +30,12 @@ range(): used to generate a sequence of numbers
 abs(): used to find the absolute value of a number.
 
 '''
+
+#  Defining a function
+def sum():
+    return 1+2
+
+# calling the function
+print(sum())
+
+# The print function is causing a side effect
